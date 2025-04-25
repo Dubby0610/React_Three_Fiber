@@ -1,13 +1,5 @@
 <h1>@react-three/fiber</h1>
 
-[![Version](https://img.shields.io/npm/v/@react-three/fiber?style=flat&colorA=000000&colorB=000000)](https://npmjs.com/package/@react-three/fiber)
-[![Downloads](https://img.shields.io/npm/dt/@react-three/fiber.svg?style=flat&colorA=000000&colorB=000000)](https://npmjs.com/package/@react-three/fiber)
-[![Twitter](https://img.shields.io/twitter/follow/pmndrs?label=%40pmndrs&style=flat&colorA=000000&colorB=000000&logo=twitter&logoColor=000000)](https://twitter.com/pmndrs)
-[![Discord](https://img.shields.io/discord/740090768164651008?style=flat&colorA=000000&colorB=000000&label=discord&logo=discord&logoColor=000000)](https://discord.gg/ZZjjNvJ)
-[![Open Collective](https://img.shields.io/opencollective/all/react-three-fiber?style=flat&colorA=000000&colorB=000000)](https://opencollective.com/react-three-fiber)
-[![ETH](https://img.shields.io/badge/ETH-f5f5f5?style=flat&colorA=000000&colorB=000000)](https://blockchain.com/eth/address/0x6E3f79Ea1d0dcedeb33D3fC6c34d2B1f156F2682)
-[![BTC](https://img.shields.io/badge/BTC-f5f5f5?style=flat&colorA=000000&colorB=000000)](https://blockchain.com/btc/address/36fuguTPxGCNnYZSRdgdh6Ea94brCAjMbH)
-
 <a href="https://docs.pmnd.rs/react-three-fiber/getting-started/examples"><img src="docs/banner-r3f.jpg" /></a>
 
 react-three-fiber is a <a href="https://reactjs.org/docs/codebase-overview.html#renderers">React renderer</a> for threejs.
@@ -281,23 +273,3 @@ A small selection of companies and projects relying on three-fiber.
 - [`glowbuzzer`](https://www.glowbuzzer.com) (CAD) — [video](https://twitter.com/glowbuzzer/status/1678396014644940800)
 - [`triplex`](https://triplex.dev) (editor) — [video](https://twitter.com/_douges/status/1708859381369221539)
 - [`theatrejs`](https://www.theatrejs.com) (editor) — [video](https://twitter.com/0xca0a/status/1566838823170068480)
-
-# How to contribute
-
-If you like this project, please consider helping out. All contributions are welcome as well as donations to [Opencollective](https://opencollective.com/react-three-fiber), or in crypto `BTC: 36fuguTPxGCNnYZSRdgdh6Ea94brCAjMbH`, `ETH: 0x6E3f79Ea1d0dcedeb33D3fC6c34d2B1f156F2682`.
-
-#### Backers
-
-Thank you to all our backers! 🙏
-
-<a href="https://opencollective.com/react-three-fiber#backers" target="_blank">
-  <img src="https://opencollective.com/react-three-fiber/backers.svg?width=890"/>
-</a>
-
-#### Contributors
-
-This project exists thanks to all the people who contribute.
-
-<a href="https://github.com/pmndrs/react-three-fiber/graphs/contributors">
-  <img src="https://opencollective.com/react-three-fiber/contributors.svg?width=890" />
-</a>
